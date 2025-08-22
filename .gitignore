@@ -363,9 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 #Custom
-~/img
-~/src/stb_image.cpp
-~/src/glad.c
 /img
 /src/glad.c
 /src/stb_image.cpp
